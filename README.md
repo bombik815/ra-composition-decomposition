@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7yp92mbaavtkc437/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-composition-decomposition/branch/main)
 
 [Декомпозиция](https://bombik815.github.io/ra-composition-decomposition/)
 
